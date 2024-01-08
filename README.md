@@ -15,7 +15,7 @@ This project involves the analysis of a hotel booking dataset using Tableau. The
    - Utilized Tableau Public to create an interactive and visually appealing dashboard.
    - Feature engineering was applied to generate calculated fields, enhancing the depth of analysis.
 
-The interactive [Tableau Dashboard.](https://public.tableau.com/views/hotel_reservations/HotelResDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) is used to visualize insights obtained from the analysis.
+My interactive [Tableau Dashboard.](https://public.tableau.com/views/hotel_reservations/HotelResDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) is used to visualize insights obtained from the analysis.
 
 # Tools
 1. SQL: Microsoft SQL Server (SSMS)
