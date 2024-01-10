@@ -18,7 +18,7 @@ This project involves the analysis of a hotel booking dataset using Tableau. The
 My interactive [Tableau Dashboard.](https://public.tableau.com/views/hotel_reservations/HotelResDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) is used to visualize insights obtained from the analysis.
 
 # Tools
-1. SQL: Microsoft SQL Server (SSMS)
+1. SQL: Microsoft SQL Server Management Studio (SSMS)
    
 2. Tableau public 2023.3
    
