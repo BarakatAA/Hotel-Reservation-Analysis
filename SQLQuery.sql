@@ -172,10 +172,12 @@ GROUP BY hotel, customer_type, total_of_special_requests;
 -- Time-Based Analysis for both hotels
 SELECT
   hotel,
+  arrival_date_year,
   arrival_date_month,
   COUNT(*) AS reservation_count
 FROM hotel_reservations
-GROUP BY hotel, arrival_date_month;
+GROUP BY hotel, arrival_date_year, arrival_date_month
+ORDER BY hotel, arrival_date_year, arrival_date_month;
 
 -- Reservation Status Trends Over Time for both hotels
 SELECT
